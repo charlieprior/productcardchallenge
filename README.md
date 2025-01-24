@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: https://www.charlieprior.com/front-ends/ProductCardChallenge/index.html
+- Live Site URL: [https://charlieprior.github.io/productcardchallenge/](https://charlieprior.github.io/productcardchallenge/)
 
 ## Acknowledgments
 
